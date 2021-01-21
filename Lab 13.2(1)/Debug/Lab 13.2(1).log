@@ -1,0 +1,5 @@
+﻿  Lab 13.2(1).cpp
+W:\Labs AP\Lab 13.2(1)\Lab 13.2(1)\Lab 13.2(1).cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+W:\Labs AP\Lab 13.2(1)\Lab 13.2(1)\Lab 13.2(1).cpp(18,39): warning C4101: x_plus_z: неиспользованная локальная переменная
+W:\Labs AP\Lab 13.2(1)\Lab 13.2(1)\Lab 13.2(1).cpp(18,30): warning C4101: x_plus_y: неиспользованная локальная переменная
+  Lab 13.2(1).vcxproj -> W:\Labs AP\Lab 13.2(1)\Debug\Lab 13.2(1).exe
